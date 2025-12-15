@@ -1,3 +1,5 @@
+package co.istad.generic;
+
 public class Persion {
     private String name;
     private String gender;

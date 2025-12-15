@@ -1,3 +1,4 @@
+package co.istad.generic;
 public class Student extends Persion {
     private float score;
 
@@ -13,7 +14,6 @@ public class Student extends Persion {
         super(name, gender, hight);
         this.score = score;
     }
-
     public void setScore(float score) {
         this.score = score;
     }

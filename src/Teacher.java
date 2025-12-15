@@ -1,6 +1,9 @@
+package co.istad.generic;
+
+import co.istad.generic.Persion;
 import java.math.BigDecimal;
 
-public class Teacher extends Persion{
+public class Teacher extends Persion {
     private double salary;
 
     public Teacher(String name, String gender, Float hight, double salary) {

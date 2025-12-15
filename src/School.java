@@ -1,3 +1,5 @@
+package co.istad.generic;
+
 import java.util.List;
 
 public class School <T extends Persion> {
